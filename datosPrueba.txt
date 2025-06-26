@@ -1,0 +1,122 @@
+[
+  {
+    "destino": "Salta",
+    "fecha": "2025-06-26",
+    "duracion": 10,
+    "precio": 2500,
+    "importeTotal": 25000,
+    "nombre": "Ramiro Gomez",
+    "dni": "34086694",
+    "estado": "Muy próximo - menos de 15 días"
+  },
+  {
+    "destino": "Salta",
+    "fecha": "2025-06-26",
+    "duracion": 10,
+    "precio": 2500,
+    "importeTotal": 25000,
+    "nombre": "Lucía Gomez",
+    "dni": "41001122",
+    "estado": "Muy próximo - menos de 15 días"
+  },
+  {
+    "destino": "Mendoza",
+    "fecha": "2025-07-10",
+    "duracion": 7,
+    "precio": 3000,
+    "importeTotal": 21000,
+    "nombre": "Martín Fernández",
+    "dni": "32144567",
+    "estado": "Próximo - entre 15 y 30 días"
+  },
+  {
+    "destino": "Mendoza",
+    "fecha": "2025-07-10",
+    "duracion": 7,
+    "precio": 3000,
+    "importeTotal": 21000,
+    "nombre": "Valentina Fernández",
+    "dni": "27890345",
+    "estado": "Próximo - entre 15 y 30 días"
+  },
+  {
+    "destino": "Tucumán",
+    "fecha": "2025-08-01",
+    "duracion": 5,
+    "precio": 2200,
+    "importeTotal": 11000,
+    "nombre": "Camila Ruiz",
+    "dni": "29877654",
+    "estado": "Lejano - más de 30 días"
+  },
+  {
+    "destino": "Bariloche",
+    "fecha": "2025-09-15",
+    "duracion": 12,
+    "precio": 3500,
+    "importeTotal": 42000,
+    "nombre": "Franco López",
+    "dni": "30112233",
+    "estado": "Lejano - más de 30 días"
+  },
+  {
+    "destino": "Córdoba",
+    "fecha": "2025-07-03",
+    "duracion": 4,
+    "precio": 2000,
+    "importeTotal": 8000,
+    "nombre": "Julieta Molina",
+    "dni": "32788900",
+    "estado": "Próximo - entre 15 y 30 días"
+  },
+  {
+    "destino": "Córdoba",
+    "fecha": "2025-07-03",
+    "duracion": 4,
+    "precio": 2000,
+    "importeTotal": 8000,
+    "nombre": "Tomás Molina",
+    "dni": "30711223",
+    "estado": "Próximo - entre 15 y 30 días"
+  },
+  {
+    "destino": "Misiones",
+    "fecha": "2025-06-29",
+    "duracion": 6,
+    "precio": 2800,
+    "importeTotal": 16800,
+    "nombre": "Isabel Torres",
+    "dni": "31100987",
+    "estado": "Muy próximo - menos de 15 días"
+  },
+  {
+    "destino": "Jujuy",
+    "fecha": "2025-08-18",
+    "duracion": 8,
+    "precio": 2600,
+    "importeTotal": 20800,
+    "nombre": "Bruno Pereyra",
+    "dni": "30001123",
+    "estado": "Lejano - más de 30 días"
+  },
+  {
+    "destino": "Santiago del Estero",
+    "fecha": "2025-07-12",
+    "duracion": 6,
+    "precio": 2500,
+    "importeTotal": 15000,
+    "nombre": "Elena Salvatierra",
+    "dni": "31998877",
+    "estado": "Próximo - entre 15 y 30 días"
+  },
+  {
+    "destino": "Santiago del Estero",
+    "fecha": "2025-07-12",
+    "duracion": 6,
+    "precio": 2500,
+    "importeTotal": 15000,
+    "nombre": "Mateo Salvatierra",
+    "dni": "31002211",
+    "estado": "Próximo - entre 15 y 30 días"
+  }
+]
