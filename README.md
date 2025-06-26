@@ -1,4 +1,4 @@
-# reservaViajes
+# Sistema de reservas de viajes
 
 Contexto: Una empresa de turismo desea registrar viajes y los pasajeros inscriptos.
 
